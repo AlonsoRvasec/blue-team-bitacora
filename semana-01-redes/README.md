@@ -9,19 +9,26 @@ Aquí documentaré mis avances, laboratorios de redes y prácticas con Wireshark
 
 ### 🔹 Lunes: Teoría de Redes
 * **Temas estudiados:** Modelo OSI, TCP/IP, direccionamiento IP, puertos y DNS.
-* **Notas clave:** *(Escribe aquí tus apuntes principales)*.
+* **Notas clave:**
+  * **Modelo OSI y TCP/IP:** Estructura en capas para entender cómo viaja la información desde la aplicación hasta el medio físico. Las capas clave que conectan con la práctica son la **Capa 3 (Red)** con el direccionamiento IP y la **Capa 4 (Transporte)** con los protocolos de comunicación.
+  * **TCP vs. UDP:** TCP es orientado a conexión y confiable (requiere el *3-way handshake*: SYN, SYN-ACK, ACK), ideal para integridad de datos. UDP es más rápido pero sin conexión ni garantía de entrega, usado en streaming o juegos.
+  * **Direccionamiento y Puertos:** Las direcciones IP identifican los dispositivos en la red, mientras que los puertos (como el 80 para HTTP o el 443 para HTTPS) actúan como "puertas lógicas" para dirigir el tráfico al servicio correcto dentro de la máquina.
+  * **DNS:** El sistema que traduce nombres de dominio legibles (ej. google.com) a direcciones IP numéricas.
 
 ### 🔹 Martes: Laboratorio en TryHackMe
-* **Módulo:** Pre-Security / Redes.
-* **Aprendizajes:** *(Qué conceptos prácticos reforzaste)*.
+* **Módulo:** Pre-Security / Redes (OSI Model & Packets & Frames).
+* **Rooms completados:** *(Actualiza aquí al terminar, ej. OSI Model, Packets & Frames)*
+* **Conceptos nuevos / Aprendizajes:**
+  * 
+  * 
+* **Conexión con la teoría:** Reforzado de manera práctica el funcionamiento del *3-way handshake* y la encapsulación de datos a través de las capas del modelo OSI.
+* **Dudas pendientes / Preguntas para Wireshark:**
+  * 
 
 ### 🔹 Miércoles: Wireshark (Práctica local)
 * **Captura de tráfico:** Análisis de handshake TCP, consultas DNS y peticiones HTTP.
-* **Evidencias:** *(Sube capturas a una carpeta img/ y enlázalas aquí)*.
+* **Evidencias:** *(Sube capturas a una carpeta img/ y enlázalas aquí)*
 
 ### 🔹 Jueves: Comandos de Linux
 * **Comandos practicados:** `ls`, `grep`, `netstat`, `ping`, etc.
-* **Ejemplo de uso:** *(Algún comando útil que hayas probado)*.
-
-### 🔹 Viernes: Documentación / Write-up
-* Conclusiones de la semana y retos superados.
+* **Ejemplo de uso:** *(Algún comando útil que hayas probado)*
