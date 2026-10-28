@@ -23,8 +23,8 @@ Aquí documentaré mis avances, laboratorios de redes y prácticas con Wireshark
   * **IP vs. MAC Address:** Diferencia fundamental entre la dirección lógica (IP, asignada en red) y la dirección física/hardware (MAC, única de la tarjeta de red).
   * **Comando Ping (ICMP):** Aplicación práctica para verificar la conectividad, el estado de la comunicación y el tiempo de respuesta hacia una dirección IP objetivo.
 * **Evidencias del laboratorio:**
-  * ![Room Completado](imgroom-completed.png.png)
-  * ![Tareas Finalizadas](imgtasks-network.png.png)
+ * ![Room Completado](img/imgroom-completed.png)
+ * ![Tareas Finalizadas](img/imgtasks-network.png)
 * **Dudas pendientes / Preguntas para Wireshark:** Ninguna por el momento, todo claro para pasar al análisis de tráfico local.
   * 
 
