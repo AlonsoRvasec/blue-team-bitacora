@@ -16,13 +16,16 @@ Aquí documentaré mis avances, laboratorios de redes y prácticas con Wireshark
   * **DNS:** El sistema que traduce nombres de dominio legibles (ej. google.com) a direcciones IP numéricas.
 
 ### 🔹 Martes: Laboratorio en TryHackMe
-* **Módulo:** Pre-Security / Redes (OSI Model & Packets & Frames).
-* **Rooms completados:** *(Actualiza aquí al terminar, ej. OSI Model, Packets & Frames)*
+* **Módulo:** Pre-Security / Network Fundamentals
+* **Rooms completados:** `What is Networking?` (Tareas 1 a 5 completadas).
 * **Conceptos nuevos / Aprendizajes:**
-  * 
-  * 
-* **Conexión con la teoría:** Reforzado de manera práctica el funcionamiento del *3-way handshake* y la encapsulación de datos a través de las capas del modelo OSI.
-* **Dudas pendientes / Preguntas para Wireshark:**
+  * **Redes e Internet:** Comprensión de cómo los dispositivos se comunican entre sí y la estructura general del internet.
+  * **IP vs. MAC Address:** Diferencia fundamental entre la dirección lógica (IP, asignada en red) y la dirección física/hardware (MAC, única de la tarjeta de red).
+  * **Comando Ping (ICMP):** Aplicación práctica para verificar la conectividad, el estado de la comunicación y el tiempo de respuesta hacia una dirección IP objetivo.
+* **Evidencias del laboratorio:**
+  * ![Room Completado](img/room-completed.png)
+  * ![Tareas Finalizadas](img/tasks-network.png)
+* **Dudas pendientes / Preguntas para Wireshark:** Ninguna por el momento, todo claro para pasar al análisis de tráfico local.
   * 
 
 ### 🔹 Miércoles: Wireshark (Práctica local)
